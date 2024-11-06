@@ -9,6 +9,7 @@ My curiosity and passion about programming never stopped growing since then. <br
 For a while, my curiosity was fulfilled by my professional activity during the day, but now I need **more** <br />
 
 This is why I invite you to follow my never-ending learning journey as a software developer by having a look at my (currently not that great) github profile where you'll find different projects that I want to accomplish.<br />
+Also, I am still a humble junior developer so feel free to comment on my code and don't hesitate to give me much appreciated advices. <br />
 
 As a FOSS lover, I will also do my best to participate in open-source softwares longevity and growth by making my projects open-source and trying to contribute in other projects.<br />
 
