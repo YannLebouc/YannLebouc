@@ -2,16 +2,15 @@
 
 **`Software developer`**
 
-Professionally active since the beginning of 2023 as a software developer, my coding journey started when I joined O'clock programming school in June 2022. <br />
+- I wish you a warm welcome to my (currently not that great) github profile where you'll find projects I want to experiment and accomplish *(But will not, we all know personal projects always end up unfinished and forgotten)*. <br />
 
-My curiosity and passion about programming never stopped growing since then. <br />
+- Professionally active since the beginning of 2023, my curiosity and passion about programming never stopped growing since then. It just feels like being a super hero having new powers everyday *(But all you can do is break things which were working before you touched)* <br />
 
-For a while, my curiosity was fulfilled by my professional activity during the day, but now I need **more** <br />
+- Also, I am still a humble junior developer so feel free to comment on my code and don't hesitate to give me much appreciated advices. <br />
 
-This is why I invite you to follow my never-ending learning journey as a software developer by having a look at my (currently not that great) github profile where you'll find different projects that I want to accomplish.<br />
-Also, I am still a humble junior developer so feel free to comment on my code and don't hesitate to give me much appreciated advices. <br />
+- Basically, this is my happy place where I learn and experiment things. <br />
 
-As a FOSS lover, I will also do my best to participate in open-source softwares longevity and growth by making my projects open-source and trying to contribute in other projects.<br />
+**Quick Disclaimer :** Do not expect 10 level abstraction layers for every class or the 464 pages of *"Clean code" by Robert C.Martin* to be fully respected here... You'll be disappointed as I will not apply every single principle since I want to experiment my newly acquired super powers using my complete free-will and enjoy things <br />
 
 <br />
 
@@ -36,6 +35,3 @@ As a FOSS lover, I will also do my best to participate in open-source softwares 
 <br />
 
 #
-
-### 📺 
-I do not have socials, but you can find me on [Twitch ](https://www.twitch.tv/hedgehogstudio)!
