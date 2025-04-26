@@ -2,15 +2,15 @@
 
 **`Software developer`**
 
-- I wish you a warm welcome to my (currently not that great) github profile where you'll find projects I want to experiment and accomplish *(But will not, we all know personal projects always end up unfinished and forgotten)*. <br />
+- I wish you a warm welcome to my (currently not that great) GitHub profile, where you'll find projects I want to experiment with and accomplish (but probably won't — we all know personal projects often end up unfinished and forgotten). <br />
 
-- Professionally active since the beginning of 2023, my curiosity and passion about programming never stopped growing since then. It just feels like being a super hero having new powers everyday *(But all you can do is break things which were working before you touched)* <br />
+- Professionally active since the beginning of 2023, my curiosity and passion for programming have never stopped growing. It honestly feels like being a superhero discovering new powers every day (except all I can do is break things that were working before I touched them). <br />
 
-- Also, I am still a humble junior developer so feel free to comment on my code and don't hesitate to give me much appreciated advices. <br />
+- Also, I'm still a humble junior developer, so feel free to comment on my code and don't hesitate to give me any much-appreciated advice. <br />
 
-- Basically, this is my happy place where I learn and experiment things. <br />
+- Basically, this is my happy place where I learn and experiment with new things. <br />
 
-**Quick Disclaimer :** Do not expect 10 level abstraction layers for every class or the 464 pages of *"Clean code" by Robert C.Martin* to be fully respected here... You'll be disappointed as I will not apply every single principle since I want to experiment my newly acquired super powers using my complete free-will and enjoy things <br />
+**Quick Disclaimer:** Don't expect ten layers of abstraction for every class or strict adherence to all 464 pages of *Clean Code by Robert C. Martin*... You might be disappointed, as I won't be applying every single principle. Here, I want to freely experiment with my newly acquired superpowers and just enjoy the process. <br />
 
 <br />
 
