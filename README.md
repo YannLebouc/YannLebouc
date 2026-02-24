@@ -1,16 +1,22 @@
-# Yann Lebouc
+# Welcome to my profile, I am Yann. 👋
 
-**`Software developer`**
+**`Backend engineer`**
+<br />
+🇬🇧 🇫🇷
 
-WORK IN PROGRESS
-REFRESHING PROFILE
+## About me
+
+* Passionate software engineer working full-time by day, trying to build and get involved in open-source projects by night
+* I love simple code
+* Continuous learner
 
 <br />
 
+## What you'll find here 
 
 ---
 
-### 🧰 Languages and Tools
+### 🧰 Skills
           
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 <img align="left" alt="Symfony" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original-wordmark.svg" />
