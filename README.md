@@ -23,6 +23,6 @@
 #### Daily usage
 [![My Skills](https://skillicons.dev/icons?i=go,c,cpp,git,linux,postgres)](https://skillicons.dev)
 #### Basic knowledge
-[![My Skills](https://skillicons.dev/icons?i=py,bash,mysql,docker,jenkins)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,php,symfony,bash,mysql,docker,jenkins)](https://skillicons.dev)
 
 <br />
