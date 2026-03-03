@@ -1,4 +1,4 @@
-# Welcome to my profile, I am Yann. 👋
+# Hi, I am Yann. 👋
 
 **`Backend engineer`**
 <br />
