@@ -1,28 +1,42 @@
 # Hi, I am Yann. 👋
 
-**`Backend engineer`**
+**`Backend engineer focused on building reliable and maintainable systems.`**
 <br />
 🇬🇧 🇫🇷
 
-## About me
+## About
 
-* Passionate software engineer working full-time by day, trying to build fun things and get involved in open-source projects by night
-* Continuous learner
+I work mainly on backend services and system-oriented software.
+My interests include backend architecture, data reliability, and building simple, robust systems that remain maintainable over time.
+
+I enjoy learning continuously and experimenting with new ideas through personal projects and open-source contributions.
 
 ## What you will find here
 
-* This place is my playground, you will find small and fun projects to bigger and more professionnal ones (coming up next).
-* Recreational programming is the way to go for me, I love coding and want to build things that make me happy.
-* Mistakes, lots of them, which is great because making them is the best way to get better
-* Simple code, not a big fan of over-engineering and way-too-complex implementations
+This GitHub gathers the projects I build to explore and improve my engineering skills:
+
+- backend services
+- developer tools
+- system-oriented experiments
+- open-source contributions
+
+I strongly believe that **software should be simple, readable and maintainable**, and I try to reflect that in the code I write.
 
 ---
 
-### 🧰 Skills
+### 🧰 Tech stack
 
-#### Daily usage
-[![My Skills](https://skillicons.dev/icons?i=go,c,cpp,git,linux,postgres)](https://skillicons.dev)
-#### Basic knowledge
-[![My Skills](https://skillicons.dev/icons?i=py,php,symfony,bash,mysql,docker,jenkins)](https://skillicons.dev)
+#### Main
+[![My Skills](https://skillicons.dev/icons?i=go,cpp,postgres,linux,git)](https://skillicons.dev)
 
-<br />
+#### Also used
+[![My Skills](https://skillicons.dev/icons?i=c,python,docker,bash,sqlite,php,symfony)](https://skillicons.dev)
+
+---
+
+## Current focus
+
+- Go backend development
+- Backend architecture and system design
+- Building an open-source **terminal based rss feed reader**
+- Building an open-core **data validation engine**
