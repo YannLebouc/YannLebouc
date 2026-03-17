@@ -13,7 +13,7 @@ I enjoy learning continuously and experimenting with new ideas through personal 
 
 ## What you will find here
 
-This GitHub gathers the projects I build to explore and improve my engineering skills:
+Projects I build to explore and improve my engineering skills:
 
 - backend services
 - developer tools
