@@ -18,7 +18,6 @@ Projects I build to explore and improve my engineering skills:
 
 - backend services
 - developer tools
-- system-oriented experiments
 - open-source contributions
 
 Some projects are small, some more ambitious — all of them are built with the same goal: **write simple, solid and maintainable code**.
@@ -38,6 +37,5 @@ Some projects are small, some more ambitious — all of them are built with the 
 ## Current focus
 
 - Go backend development
-- Backend architecture and system design
 - Building an open-source **terminal based rss feed reader**
-- Building an open-core **data validation engine**
+- Building an open-source **terminal based wealth tracker**
