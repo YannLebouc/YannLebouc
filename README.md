@@ -30,12 +30,12 @@ Some projects are small, some more ambitious — all of them are built with the 
 [![My Skills](https://skillicons.dev/icons?i=go,cpp,postgres,linux,git)](https://skillicons.dev)
 
 #### Also used
-[![My Skills](https://skillicons.dev/icons?i=c,python,docker,bash,sqlite,php,symfony)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,python,docker,bash,php,symfony)](https://skillicons.dev)
 
 ---
 
 ## Current focus
 
 - Go backend development
-- Building an open-source **terminal based rss feed reader**
 - Building an open-source **terminal based wealth tracker**
+- Learning fintech
