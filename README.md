@@ -16,7 +16,7 @@ I enjoy learning continuously and experimenting with new ideas through personal 
 
 Projects I build to explore and improve my engineering skills:
 
-- backend services
+- backend systems & services
 - developer tools
 - open-source contributions
 
@@ -27,15 +27,15 @@ Some projects are small, some more ambitious — all of them are built with the 
 ### 🧰 Tech stack
 
 #### Main
-[![My Skills](https://skillicons.dev/icons?i=go,cpp,postgres,linux,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,go,c,postgres,linux,git)](https://skillicons.dev)
 
 #### Also used
-[![My Skills](https://skillicons.dev/icons?i=c,python,docker,bash,php,symfony)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,bash,php,symfony)](https://skillicons.dev)
 
 ---
 
 ## Current focus
 
-- Go backend development
-- Building an open-source **terminal based wealth tracker**
+- C++ systems development
+- Building an open-source high-performance transactional engine, see **Basalt repository**
 - Learning fintech
