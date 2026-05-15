@@ -39,16 +39,14 @@ Performance, profiling and debugging
 Linux systems programming
 Fintech and low-latency systems
 
-Currently building Basalt:
+Currently building Basalt :
 an experimental high-performance transactional engine focused on storage, reliability and systems design.
 
 ---
 
 ## What you will find here
 
-What you will find here
-
-Projects built to explore and improve:
+Projects built to explore and improve :
 
 backend engineering,
 systems programming,
